@@ -1,0 +1,16 @@
+div.cls1 {
+	background-color: snow ;
+	text-align:center;
+	padding:5px;
+}
+
+div.cls2 {
+	background-color: black ;
+	color: white ;
+	padding: 2px ;
+	text-align: center ;
+}
+
+div.cls3 {
+	padding-left: 25px ;
+}
